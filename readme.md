@@ -3,4 +3,4 @@
 ### Easier to debug
 ### OOP features
 ### catch error at compile time
-
+### if there is an error, it still going to compile and output javascript file
